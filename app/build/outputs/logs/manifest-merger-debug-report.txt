@@ -1,0 +1,464 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\5a24b2453c0b2a3fc0e71a0496a77e4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.4] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\catloadinglibrary-1.0.4.aar\6ee138efcdb52028df5b357edb0efae6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.Shashank02051997:FancyAlertDialog-Android:0.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\FancyAlertDialog-Android-0.1.aar\883a557de4b4fca2dff45ec45deeca0d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.4.7.aar\1991b6cbeee303fbf2fd8672d2e9ae66\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\26631e5e6aa60daedfe21f4b02463afa\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6fbf43b7af30cf702c19874671110134\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b57d9aa1841d0dbd2b7d5ed00c1f1262\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\947ace13044e289667bad46f973f7d41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jaredrummler:material-spinner:1.3.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\material-spinner-1.3.1.aar\79e974edb688f7ba442b83d72d1e4feb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\894abc783ab3bf29733ed435980ff1b6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.0.aar\4660775d906580747a36f5fc98a8c1a2\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.0.aar\f07505db78eb4e04017ce459178d5b75\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-core:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.0.aar\0575efac10bc8076c4514ddcf47eb8f4\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.0.aar\62fca71a24d252bcf0c3aa8a4744ef73\AndroidManifest.xml:2:1-4:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\30ccd4730aa8ef7d901dba5db32f8d17\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\048988e5da01b21fb72fcf34afe26e13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e6ebd61b97a24ee16f5ce6012af0cea7\AndroidManifest.xml:17:1-22:12
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\compressor-2.1.0.aar\468cec249702500ad312188b02e23b38\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7c4996fdb629aaf5270f2be22c8fc509\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\6e594bebbc641e8bcde8203515c7e3b7\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.0.aar\6be1d9b150d4ab8d5152733a463eeee6\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.0.aar\f984c0daa78806c0cdc2a268e0d34353\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\b82db611b81bc4cd5c3eec83762d9efe\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-storage-common:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.0.aar\271960e3b723308d9c202854e7d74db7\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\fbab3fff0ffc251523a8ddbdb5365f92\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\0bb636bdace93f911c620043b37ee7ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2655aeeb2b62b8163690df1965ce6def\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\630b9dc6094ca9e5faa56de7f4cf421f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3d94370ca606bfeec8018959f5a2b046\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\885c39d8f992f70085348efe4be2d3da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8baa19130c788c6c75e8ab900e95faf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fa9f92a4fe013022ed8adace032c222f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8ba9936d87da3e41a8992cac31303e26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1a82ad8b07860c45072a2c792a52cfe5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\82378eaa470f3cee719f8efbfca5fd89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\0c3f79ab970d6c45ea8a6aeb0c51aba4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2ce49674c8b6b598a451dae041f9e76f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ea32434e97e405127a8f1829eeff2079\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\abff28d4c671f66ea0cd977f79c85046\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\859643d381b3b9f368b5c9dbad2b12e7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e7ac02788cec614fd2b46863934d7bb3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f7daff4fd088f09259567d6111ac7372\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\exifinterface-25.3.1.aar\ee5602d49a054e1893c7914ec36372ee\AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\54662148856e92bffda0c5fbcf044322\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\dd4203e68702e056cf6317dca91ac62b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4325ae2b5ed833187104bb9cadd88802\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\06c76eebdc49464543fbb95e16f770e0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e26660b6b770850cb22518ac9892d2f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0d3fb9461b57940c5c9174e5dba829af\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\f0ac5137798a6aa0115bf385ddf7985a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\71cbadfcefeb5cbc278e7bab71221bc3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b627a3759fb08d75e1fb090ae7b5d583\AndroidManifest.xml:17:1-22:12
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\11c299fd4a567c4c0bd6d9a497ca6ec2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\79c7e73796645d1453943f06b17ec419\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\b8d00b2db561b803823c33837f882ec9\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\2b91be328f7d1665e44823c99d6f0ca5\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.4] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\catloadinglibrary-1.0.4.aar\6ee138efcdb52028df5b357edb0efae6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.4] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\catloadinglibrary-1.0.4.aar\6ee138efcdb52028df5b357edb0efae6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\26631e5e6aa60daedfe21f4b02463afa\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\26631e5e6aa60daedfe21f4b02463afa\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b57d9aa1841d0dbd2b7d5ed00c1f1262\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b57d9aa1841d0dbd2b7d5ed00c1f1262\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.0.aar\4660775d906580747a36f5fc98a8c1a2\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.0.aar\4660775d906580747a36f5fc98a8c1a2\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.0.aar\0575efac10bc8076c4514ddcf47eb8f4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.0.aar\0575efac10bc8076c4514ddcf47eb8f4\AndroidManifest.xml:5:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\30ccd4730aa8ef7d901dba5db32f8d17\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\30ccd4730aa8ef7d901dba5db32f8d17\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\6e594bebbc641e8bcde8203515c7e3b7\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\6e594bebbc641e8bcde8203515c7e3b7\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.0.aar\f984c0daa78806c0cdc2a268e0d34353\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.0.aar\f984c0daa78806c0cdc2a268e0d34353\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\b82db611b81bc4cd5c3eec83762d9efe\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\b82db611b81bc4cd5c3eec83762d9efe\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\fbab3fff0ffc251523a8ddbdb5365f92\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\fbab3fff0ffc251523a8ddbdb5365f92\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\859643d381b3b9f368b5c9dbad2b12e7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\859643d381b3b9f368b5c9dbad2b12e7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e7ac02788cec614fd2b46863934d7bb3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e7ac02788cec614fd2b46863934d7bb3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\exifinterface-25.3.1.aar\ee5602d49a054e1893c7914ec36372ee\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\exifinterface-25.3.1.aar\ee5602d49a054e1893c7914ec36372ee\AndroidManifest.xml:26:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\79c7e73796645d1453943f06b17ec419\AndroidManifest.xml:10:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\79c7e73796645d1453943f06b17ec419\AndroidManifest.xml:10:5-20
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\2b91be328f7d1665e44823c99d6f0ca5\AndroidManifest.xml:9:5-10:19
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\2b91be328f7d1665e44823c99d6f0ca5\AndroidManifest.xml:9:5-10:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\859643d381b3b9f368b5c9dbad2b12e7\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.ticsell.MainActivity
+ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:12:9-14:59
+	android:label
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:13:13-41
+activity#com.ticsell.SplashActivity
+ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:15:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.ticsell.LoginActivity
+ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:22:19-48
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:23:9-25:59
+	android:theme
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml:24:13-76
+uses-sdk
+INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\5a24b2453c0b2a3fc0e71a0496a77e4c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\5a24b2453c0b2a3fc0e71a0496a77e4c\AndroidManifest.xml:20:5-43
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.4] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\catloadinglibrary-1.0.4.aar\6ee138efcdb52028df5b357edb0efae6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.4] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\catloadinglibrary-1.0.4.aar\6ee138efcdb52028df5b357edb0efae6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Shashank02051997:FancyAlertDialog-Android:0.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\FancyAlertDialog-Android-0.1.aar\883a557de4b4fca2dff45ec45deeca0d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Shashank02051997:FancyAlertDialog-Android:0.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\FancyAlertDialog-Android-0.1.aar\883a557de4b4fca2dff45ec45deeca0d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.4.7.aar\1991b6cbeee303fbf2fd8672d2e9ae66\AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.4.7.aar\1991b6cbeee303fbf2fd8672d2e9ae66\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\26631e5e6aa60daedfe21f4b02463afa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\26631e5e6aa60daedfe21f4b02463afa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6fbf43b7af30cf702c19874671110134\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6fbf43b7af30cf702c19874671110134\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b57d9aa1841d0dbd2b7d5ed00c1f1262\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b57d9aa1841d0dbd2b7d5ed00c1f1262\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\947ace13044e289667bad46f973f7d41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\947ace13044e289667bad46f973f7d41\AndroidManifest.xml:20:5-44
+MERGED from [com.jaredrummler:material-spinner:1.3.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\material-spinner-1.3.1.aar\79e974edb688f7ba442b83d72d1e4feb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jaredrummler:material-spinner:1.3.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\material-spinner-1.3.1.aar\79e974edb688f7ba442b83d72d1e4feb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\894abc783ab3bf29733ed435980ff1b6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\894abc783ab3bf29733ed435980ff1b6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.0.aar\4660775d906580747a36f5fc98a8c1a2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.0.aar\4660775d906580747a36f5fc98a8c1a2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.0.aar\f07505db78eb4e04017ce459178d5b75\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.0.aar\f07505db78eb4e04017ce459178d5b75\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.0.aar\0575efac10bc8076c4514ddcf47eb8f4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.0.aar\0575efac10bc8076c4514ddcf47eb8f4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.0.aar\62fca71a24d252bcf0c3aa8a4744ef73\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.0.aar\62fca71a24d252bcf0c3aa8a4744ef73\AndroidManifest.xml:3:5-43
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\30ccd4730aa8ef7d901dba5db32f8d17\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\30ccd4730aa8ef7d901dba5db32f8d17\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\048988e5da01b21fb72fcf34afe26e13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\048988e5da01b21fb72fcf34afe26e13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e6ebd61b97a24ee16f5ce6012af0cea7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e6ebd61b97a24ee16f5ce6012af0cea7\AndroidManifest.xml:20:5-44
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\compressor-2.1.0.aar\468cec249702500ad312188b02e23b38\AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\compressor-2.1.0.aar\468cec249702500ad312188b02e23b38\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7c4996fdb629aaf5270f2be22c8fc509\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7c4996fdb629aaf5270f2be22c8fc509\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\6e594bebbc641e8bcde8203515c7e3b7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\6e594bebbc641e8bcde8203515c7e3b7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.0.aar\6be1d9b150d4ab8d5152733a463eeee6\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.0.aar\6be1d9b150d4ab8d5152733a463eeee6\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.0.aar\f984c0daa78806c0cdc2a268e0d34353\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.0.aar\f984c0daa78806c0cdc2a268e0d34353\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\b82db611b81bc4cd5c3eec83762d9efe\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\b82db611b81bc4cd5c3eec83762d9efe\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.0.aar\271960e3b723308d9c202854e7d74db7\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.0.aar\271960e3b723308d9c202854e7d74db7\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\fbab3fff0ffc251523a8ddbdb5365f92\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\fbab3fff0ffc251523a8ddbdb5365f92\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\0bb636bdace93f911c620043b37ee7ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\0bb636bdace93f911c620043b37ee7ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2655aeeb2b62b8163690df1965ce6def\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2655aeeb2b62b8163690df1965ce6def\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\630b9dc6094ca9e5faa56de7f4cf421f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\630b9dc6094ca9e5faa56de7f4cf421f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3d94370ca606bfeec8018959f5a2b046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3d94370ca606bfeec8018959f5a2b046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\885c39d8f992f70085348efe4be2d3da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\885c39d8f992f70085348efe4be2d3da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8baa19130c788c6c75e8ab900e95faf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8baa19130c788c6c75e8ab900e95faf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fa9f92a4fe013022ed8adace032c222f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fa9f92a4fe013022ed8adace032c222f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8ba9936d87da3e41a8992cac31303e26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8ba9936d87da3e41a8992cac31303e26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1a82ad8b07860c45072a2c792a52cfe5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1a82ad8b07860c45072a2c792a52cfe5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\82378eaa470f3cee719f8efbfca5fd89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\82378eaa470f3cee719f8efbfca5fd89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\0c3f79ab970d6c45ea8a6aeb0c51aba4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\0c3f79ab970d6c45ea8a6aeb0c51aba4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2ce49674c8b6b598a451dae041f9e76f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2ce49674c8b6b598a451dae041f9e76f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ea32434e97e405127a8f1829eeff2079\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ea32434e97e405127a8f1829eeff2079\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\abff28d4c671f66ea0cd977f79c85046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\abff28d4c671f66ea0cd977f79c85046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\859643d381b3b9f368b5c9dbad2b12e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\859643d381b3b9f368b5c9dbad2b12e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e7ac02788cec614fd2b46863934d7bb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e7ac02788cec614fd2b46863934d7bb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f7daff4fd088f09259567d6111ac7372\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f7daff4fd088f09259567d6111ac7372\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\exifinterface-25.3.1.aar\ee5602d49a054e1893c7914ec36372ee\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\exifinterface-25.3.1.aar\ee5602d49a054e1893c7914ec36372ee\AndroidManifest.xml:20:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\54662148856e92bffda0c5fbcf044322\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\54662148856e92bffda0c5fbcf044322\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\dd4203e68702e056cf6317dca91ac62b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\dd4203e68702e056cf6317dca91ac62b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4325ae2b5ed833187104bb9cadd88802\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4325ae2b5ed833187104bb9cadd88802\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\06c76eebdc49464543fbb95e16f770e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\06c76eebdc49464543fbb95e16f770e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e26660b6b770850cb22518ac9892d2f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e26660b6b770850cb22518ac9892d2f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0d3fb9461b57940c5c9174e5dba829af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0d3fb9461b57940c5c9174e5dba829af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\f0ac5137798a6aa0115bf385ddf7985a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\f0ac5137798a6aa0115bf385ddf7985a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\71cbadfcefeb5cbc278e7bab71221bc3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\71cbadfcefeb5cbc278e7bab71221bc3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b627a3759fb08d75e1fb090ae7b5d583\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b627a3759fb08d75e1fb090ae7b5d583\AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\11c299fd4a567c4c0bd6d9a497ca6ec2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\11c299fd4a567c4c0bd6d9a497ca6ec2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\79c7e73796645d1453943f06b17ec419\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\79c7e73796645d1453943f06b17ec419\AndroidManifest.xml:6:5-8:41
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\b8d00b2db561b803823c33837f882ec9\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\b8d00b2db561b803823c33837f882ec9\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\2b91be328f7d1665e44823c99d6f0ca5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\2b91be328f7d1665e44823c99d6f0ca5\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EDWIN\Desktop\TicSell\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\6e594bebbc641e8bcde8203515c7e3b7\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\6e594bebbc641e8bcde8203515c7e3b7\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\6e594bebbc641e8bcde8203515c7e3b7\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\6e594bebbc641e8bcde8203515c7e3b7\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.0.aar\d81aa66a36d16e5d1e5cfcc4907bdb15\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.0.aar\b7206fe76909140282f4a8007d77ba14\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:24:17-71
+permission#com.ticsell.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:26:22-76
+uses-permission#com.ticsell.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:31:13-34:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.ticsell
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:33:27-58
+category#com.ticsell
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:43:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.0.aar\d3189f9de429e4c3be3e3ff450a8f05a\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.0.aar\f984c0daa78806c0cdc2a268e0d34353\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.0.aar\f984c0daa78806c0cdc2a268e0d34353\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.0.aar\f984c0daa78806c0cdc2a268e0d34353\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.0.aar\f984c0daa78806c0cdc2a268e0d34353\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.0.aar\f984c0daa78806c0cdc2a268e0d34353\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\fbab3fff0ffc251523a8ddbdb5365f92\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\fbab3fff0ffc251523a8ddbdb5365f92\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\fbab3fff0ffc251523a8ddbdb5365f92\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:exifinterface:25.3.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\exifinterface-25.3.1.aar\ee5602d49a054e1893c7914ec36372ee\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:exifinterface:25.3.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\exifinterface-25.3.1.aar\ee5602d49a054e1893c7914ec36372ee\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:exifinterface:25.3.1] C:\Users\EDWIN\.gradle\caches\transforms-1\files-1.1\exifinterface-25.3.1.aar\ee5602d49a054e1893c7914ec36372ee\AndroidManifest.xml:23:9-47

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragments.HomeFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary">
+    <com.jaredrummler.materialspinner.MaterialSpinner
+        android:id="@+id/spinner"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        app:ms_background_color="@color/colorPrimary"
+        app:ms_hint="Location"
+        app:ms_hide_arrow="false"
+        app:ms_hint_color="@color/white"
+        app:ms_arrow_tint="@color/white"
+        app:ms_text_color="@color/white"
+        />
+
+    </LinearLayout>
+</FrameLayout>

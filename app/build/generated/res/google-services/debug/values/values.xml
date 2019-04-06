@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">30013264373-acva6731ud04440pa01347krv6onn0kb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ticsell.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">30013264373</string>
+    <string name="google_api_key" translatable="false">AIzaSyCLu23dORP8iye74H16cT1mZMfv9lxVDI8</string>
+    <string name="google_app_id" translatable="false">1:30013264373:android:c0984434a71004ee</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCLu23dORP8iye74H16cT1mZMfv9lxVDI8</string>
+    <string name="google_storage_bucket" translatable="false">ticsell.appspot.com</string>
+    <string name="project_id" translatable="false">ticsell</string>
+</resources>

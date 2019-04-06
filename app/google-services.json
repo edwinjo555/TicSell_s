@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "30013264373",
+    "firebase_url": "https://ticsell.firebaseio.com",
+    "project_id": "ticsell",
+    "storage_bucket": "ticsell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30013264373:android:c0984434a71004ee",
+        "android_client_info": {
+          "package_name": "com.ticsell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30013264373-kka6inifbonkcm9eemm6hq19379i1soa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticsell",
+            "certificate_hash": "d0b45669f961e4e77e6c503f8355ccd3bc4a21af"
+          }
+        },
+        {
+          "client_id": "30013264373-acva6731ud04440pa01347krv6onn0kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLu23dORP8iye74H16cT1mZMfv9lxVDI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30013264373-acva6731ud04440pa01347krv6onn0kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
